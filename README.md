@@ -37,6 +37,6 @@ To get started with ExpoX, please refer to usage instructions.
 
 ## Feedback
 
-We welcome feedback and contributions to ExpoX. Feel free to [reach out](www.linkedin.com/in/himanshu-kumar035) with any questions or suggestions.
+We welcome feedback and contributions to ExpoX. Feel free to [reach out](https://www.linkedin.com/in/himanshu-kumar035/) with any questions or suggestions.
 
 Thank you for choosing ExpoX to enhance your expo experience!
