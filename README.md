@@ -33,7 +33,7 @@ ExpoX represents a paradigm shift in expo management, offering personalized expe
 
 ## Getting Started
 
-To get started with ExpoX, please refer to the [documentation](link_to_documentation) for installation and usage instructions.
+To get started with ExpoX, please refer to usage instructions.
 
 ## Feedback
 
